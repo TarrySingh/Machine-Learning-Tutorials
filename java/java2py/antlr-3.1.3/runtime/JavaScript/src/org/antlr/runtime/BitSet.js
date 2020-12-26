@@ -423,7 +423,7 @@ org.antlr.runtime.BitSet.prototype = {
      * current values.  If one argument is passed sets each bit from the
      * beginning of the bit set to index1 (inclusive) to the complement of its
      * current value.  If two arguments are passed sets each bit from the
-     * specified index1 (inclusive) to the sepcified index2 (inclusive) to the
+     * specified index1 (inclusive) to the specified index2 (inclusive) to the
      * complement of its current value.
      * @param {Number} index1
      * @param {Number} index2
