@@ -193,6 +193,7 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | [pca](http://nbviewer.ipython.org/github/TarrySingh/Machine-Learning-Tutorials/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Implement principal component analysis in scikit-learn. |
 | [gmm](http://nbviewer.ipython.org/github/TarrySingh/Machine-Learning-Tutorials/blob/master/scikit-learn/scikit-learn-gmm.ipynb) | Implement Gaussian mixture models in scikit-learn. |
 | [validation](http://nbviewer.ipython.org/github/TarrySingh/Machine-Learning-Tutorials/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Implement validation and model selection in scikit-learn. |
+| [hyperparamter-tuning](https://nbviewer.jupyter.org/github/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms/blob/master/HPO_Classification.ipynb) | Hyperparamters tuning of machine learning models in scikit-learn. |
 
 <br/>
 <p align="center">
