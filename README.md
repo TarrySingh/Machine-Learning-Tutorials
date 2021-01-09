@@ -95,6 +95,9 @@ Additional PyRo tutorials:
 </p>
 Additional TensorFlow tutorials:
 
+* [TensorFlow 2.0 Official Website](https://github.com/tensorflow/docs/tree/master/site/en/tutorials)
+* [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+* [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
 * [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [alrojo/tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial)
@@ -701,18 +704,6 @@ Notebooks tested with Python 3.7+
 
 Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/tarrysingh/Machine-Learning-Tutorials//issues).
 
-## contact-info
-
-Feel free to contact me to discuss any issues, questions, or comments.
-
-* Email: [tarry.singh@gmail.com](mailto:tarry.singh@gmail.com)
-* Twitter: [@tarrysingh](https://twitter.com/tarrysingh)
-* GitHub: [tarrysingh](https://github.com/tarrysingh.com)
-* LinkedIn: [Tarry Singh](https://www.linkedin.com/in/tarrysingh)
-* Website: [tarrysingh.com](https://tarrysingh.com)
-* Medium: [tarry@Medium](https://medium.com/@tarrysingh)
-* Quora : [Answers from Tarry on Quora](https://www.quora.com/profile/Tarry-Singh)
-
 ## license
 
 This repository contains a variety of content; some developed by Tarry Singh and some from third-parties and a lot will be maintained by me. The third-party content is distributed under the license provided by those parties.
@@ -734,3 +725,6 @@ The content was originally developed by Donne Martin is distributed under the fo
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    #Extras
+    > https://github.com/PacktPublishing
