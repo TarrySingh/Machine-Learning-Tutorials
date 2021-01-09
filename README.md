@@ -439,6 +439,7 @@ Notebooks tested with Python 3.7+
 * Agile Data Science http://blog.sense.io/ [(RSS)](http://blog.sense.io/rss/)
 * Ahmed El Deeb https://medium.com/@D33B [(RSS)](https://medium.com/feed/@D33B)
 * Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)](http://nerds.airbnb.com/feed/)
+* AI Summer https://theaisummer.com/ [(RSS)](https://theaisummer.com/feed.xml)
 * Alex Castrounis | InnoArchiTech http://www.innoarchitech.com/ [(RSS)](http://www.innoarchitech.com/feed.xml)
 * Alex Perrier http://alexperrier.github.io/ [(RSS)](http://alexperrier.github.io/feed.xml)
 * Algobeans | Data Analytics Tutorials & Experiments for the Layman https://algobeans.com [(RSS)](https://algobeans.com/feed/)
