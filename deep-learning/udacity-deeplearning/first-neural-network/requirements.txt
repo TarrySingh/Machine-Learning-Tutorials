@@ -20,7 +20,7 @@ matplotlib==2.0.0
 mistune==0.7.4
 nbconvert==5.1.1
 nbformat==4.3.0
-notebook==4.4.1
+notebook==6.1.5
 numpy==1.12.1
 packaging==16.8
 pandas==0.19.2
