@@ -21,6 +21,7 @@ Both models act on screening mammography exams with four standard views (L-CC, R
 * pandas (0.22.0)
 * tqdm (4.19.8)
 * opencv-python (3.4.2)
+* tensorflow (1.14.0)
 
 ## License
 
