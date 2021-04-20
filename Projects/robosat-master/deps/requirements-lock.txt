@@ -22,7 +22,7 @@ opencv-contrib-python==3.4.1.15
 osmium==2.14.1
 Pillow==5.1.0
 pluggy==0.6.0
-py==1.5.3
+py==1.10.0
 pyparsing==2.2.0
 pyproj==1.9.5.1
 pytest==3.6.1
