@@ -20,7 +20,7 @@ more-itertools==4.2.0
 numpy==1.14.4
 opencv-contrib-python==3.4.1.15
 osmium==2.14.1
-Pillow==5.1.0
+Pillow==8.2.0
 pluggy==0.6.0
 py==1.5.3
 pyparsing==2.2.0
