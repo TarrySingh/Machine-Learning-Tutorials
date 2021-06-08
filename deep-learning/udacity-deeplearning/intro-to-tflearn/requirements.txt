@@ -29,7 +29,7 @@ pandas==0.19.2
 pandocfilters==1.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==4.0.0
+Pillow==8.2.0
 prompt-toolkit==1.0.14
 protobuf==3.2.0
 ptyprocess==0.5.1
